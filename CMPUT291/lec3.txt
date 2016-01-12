@@ -1,0 +1,15 @@
+Design Choices
+	Descriptive attributes vs. a new logic entity set
+		- some simple facts may be represented by a few descriptive attributes
+		- a new entity may be needed for more complicated ones
+	Entity set vs. Relationship set
+	Binary vs. Ternary Relationships
+
+Representing ER model using tables:
+	you need 1 table for 1 entity set,
+	3 for 3,
+	n for n, etc.
+	For each table, each column represents attribute
+	1 table for 1 relationship set
+	**Exceptions: 1:N relationships can be omitted.**
+
