@@ -11,5 +11,4 @@ Representing ER model using tables:
 	n for n, etc.
 	For each table, each column represents attribute
 	1 table for 1 relationship set
-	**Exceptions: 1:N relationships can be omitted.**
-
+	**Exceptions: 1:N relationships can be omitted. Add the key attributes to the N side**

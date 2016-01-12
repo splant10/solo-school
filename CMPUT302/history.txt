@@ -1,0 +1,33 @@
+Definition:
+    - The study of people and computing systems and the way they influence each other.
+    - A set of processes, dialogues, and actions through which a human user employs and interacts with a computer.
+    - A discipline concerned with the design, evaluation and implementation of interactive computing systems for human use with the study of phenomena surrounding them.
+
+Disciplines Contributing to HCI
+    - Cognitive Psychology
+    - Ergonomics
+    - Linguistics
+    - Artificial Intelligence
+    - Sociology and social psychology
+    - Engineering and industrial design
+
+UI Design
+    - 75% or more of development effort can go into the user interface [40-70% is typical] [Everybody needs to know the basics]
+    - UI sofware is becoming more complex
+    - There are direct financial benefits from improved user interfaces.
+
+Financial Benefits and Costs
+    - Increased user productivity
+    - Increased revenues from sales
+    - Decreased training and support costs
+    - Decreased maintenance cost
+
+ENIAC (1946)
+SAGE System (1960)
+Honeywell Bull Gamma 30 (1961)
+Batch Processing (1964)
+Timesharing (mid 60's)
+Ivan Sutherland's Sketchpad (1963 PhD thesis at MIT)
+Doug Englebart (late 60's)
+Xerox -> Apple -------> Windows
+Xerox Star (1981) -> Apple Lisa (1982) -> Apple Macintosh (1984)
