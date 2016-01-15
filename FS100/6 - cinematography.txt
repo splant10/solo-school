@@ -23,3 +23,29 @@ Zoom in:
 	the act of changes the lens' focal length to narrow the field of a distant object, magnifying and reframing it,
 	often in close-up, while the camera remains stationary.
 
+Film Gauge:
+	the width of the film stock
+
+Aspect Ratio:
+	the relationship of the frame's width to its height
+
+Widescreen Technologies:
+	Cinerama
+		Curved 180 degree screens - needed 3 seperate projectors
+		Need to make sure each of the cameras stayed in sync
+	Cinemascope
+	Vistavision
+
+Xavier Dolan - Mommy (2014)
+	used a 1:1 aspect ratio
+	shifted to a wider aspect ratio partway through film to critical acclaim
+
+Pan and Scan:
+	the process used to transfer a widescreen-format film to the standard television aspect ratio
+	bad
+
+Depth of Field:
+	the range of distances before the lens within which objects can be photographed in sharp focus.
+	Shallow DoF:
+		small amount of focus
+	
