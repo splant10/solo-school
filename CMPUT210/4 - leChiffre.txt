@@ -1,0 +1,67 @@
+Evolution of the Vigenere Cipher:
+1) Alberti:
+	Lived in the 1400's Italy
+	Duo-alphabetic substitution cipher
+2) Trithemius
+	Cryptopher
+3) della Porta
+	1500's
+4) Bellaso
+	came up with a cipher similar to Vigenere's
+5) Vigenere
+	Diplomat for many years, then after saving enough he became a scholar.
+
+Vigenere Cipher
+             key-letter a b c ...  z
+             shift      0 1 2 ... 25
+ W H I T E W H I T E W H I T E W H I T E W H I  key
+ d i v e r t t r o o p s t o e a s t r i d g e  ptxt
+ Z P D X V P A Z H S L Z B H I W Z B K M Z N M  ctxt
+
+ abcdefghijklmnopqrstuvwxyz
+ bcdefghijklmnopqrstuvwxyza
+ cdefghijklmnopqrstuvwxyzab
+ defghijklmnopqrstuvwxyzabc
+ efghijklmnopqrstuvwxyzabcd
+ fghijklmnopqrstuvwxyzabcde
+ ghijklmnopqrstuvwxyzabcdef
+ hijklmnopqrstuvwxyzabcdefg
+ ijklmnopqrstuvwxyzabcdefgh
+ jklmnopqrstuvwxyzabcdefghi
+ klmnopqrstuvwxyzabcdefghij
+ lmnopqrstuvwxyzabcdefghijk
+ mnopqrstuvwxyzabcdefghijkl
+ nopqrstuvwxyzabcdefghijklm
+ opqrstuvwxyzabcdefghijklmn
+ pqrstuvwxyzabcdefghijklmno
+ qrstuvwxyzabcdefghijklmnop
+ rstuvwxyzabcdefghijklmnopq
+ stuvwxyzabcdefghijklmnopqr
+ tuvwxyzabcdefghijklmnopqrs
+ uvwxyzabcdefghijklmnopqrst
+ vwxyzabcdefghijklmnopqrstu
+ wxyzabcdefghijklmnopqrstuv
+ xyzabcdefghijklmnopqrstuvw
+ yzabcdefghijklmnopqrstuvwx
+ zabcdefghijklmnopqrstuvwxy
+
+cj = fk( pj ) = ( pj + kj mod m) mod 26
+in general,   cj = ( pj + kj mod κ ) mod α
+
+Number of keys:
+	Alberti
+		26! x 26! = 1.6e53
+
+	Vigenere, keyphrase length t
+		26^t
+		t = 10: 2610 = 1.4e14
+
+...
+
+Black Chamber:
+	inside you'd have 20 people. They would be brought messages in the morning, they'd mke copies, and reseal and send them on their way, while cryptographers worked on cracking ciphers.
+
+Babbage v. Vigenere
+	Charles Babbage was one of the first people to start building an all-purpose computer, born in 1791.
+
+	

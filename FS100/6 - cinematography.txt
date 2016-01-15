@@ -1,0 +1,25 @@
+F-stop:
+	how much a camera shutter opens to vary how much light is taken in
+	f/2 = full
+	f/16 = tiny
+
+Focal Length:
+	the distance from the centre of the lens to the point where light rays converge to a point of focus on the film.
+
+Types of lenses:
+	wide angle lens (short focal length) 
+		makes subjects appear farther apart than they actually are
+	normal lens (middle focal length)
+		produces images that correspond to our day-to-day experience of depth and perspective
+		keeps all subject sin a normal sense of focus
+	telephoto lens (long focal length)
+		brings distant objects close
+		flattens space and depth
+		can leave most of the background and foreground out of focus
+	zoom lens (variable focal length)
+		produces images that simulate the effect of camera movement toward or away from the subject
+
+Zoom in:
+	the act of changes the lens' focal length to narrow the field of a distant object, magnifying and reframing it,
+	often in close-up, while the camera remains stationary.
+
