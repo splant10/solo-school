@@ -1,0 +1,29 @@
+CREATE TABLE License (
+	number INTEGER,
+	conditions CHAR(50),
+	class INTEGER,
+	issuing_date CHAR(20),
+	expiry_date CHAR(20),
+	photo ?????
+)
+
+CREATE TABLE Person (
+	sin INTEGER,
+	address CHAR(50),
+	gender INTEGER,
+	height INTEGER,
+	name CHAR(50),
+	eye_color CHAR(20),
+	hair_color CHAR(20)
+)
+
+CREATE TABLE Violation (
+	id INTEGER,
+	fine INTEGER,
+	type CHAR(20),
+	date CHAR(20),
+	officer_comments CHAR(100),
+	place CHAR(50),
+	vehicle INTEGER,
+	issuing_officer INTEGER
+)
