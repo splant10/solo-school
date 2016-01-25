@@ -1,0 +1,51 @@
+Shot-by-shot:
+	No more than 3 pages.
+	Purpose is to describe the shot so that someone can picture it without seeing it.
+	Camera height, angle, and distance *** every single shot
+	Pay attention to focus
+	Do not have to mention lighting
+
+Lighting
+	Source, Quality, Direction, Colour
+
+	Source:
+		Natural vs. Artificial Light
+
+	Quality:
+		Refers to the relative intensity of illumination
+		High intensity light/Hard Lighting (ex clear day at noon):
+			creates clearly defined shadows, crisp textures and sharp edges.
+		Lower intensity light/Soft Lighting (ex cloudy day at noon):
+			creates a diffuesed illumination
+		Magic Hour:
+			the time after sunset but before dark or the time of increasing light before sunrise.
+			Days of Heaven uses a lot of Magic Hour (was shot in southern alberta. Also don't say Days of Heaven uses Magic Hour in the written response, since this is already known)
+
+	Direction:
+		direction of lighting in a shot refers to the path of light from its source or sources to the object lit.
+		frontal lighting:
+			illumination directed into the scene from near the camera
+		side lighting:
+			lighting coming from one side of a person or object, usually in order to create a sense of volume, to bring out surface tensions, or to fill in areas left shadowed by light from another source.
+		backlighting:
+			illumination cast onto the figures in the scene from the side opposite the caera, usually creating a thin outline of highlighting on those figures. Silhouettes.
+		underlighting:
+			illumination from a point of view below the actor
+		top lighting:
+			lighting from above a person or object, usually in order to outline the upper half of an actor
+
+	Three point lighting system:
+		a common arrangement using three direction of light on a scene: from behind the subjects (backlighting), from one bright source (key light), and from a less bright source balanceing the key light (fill light).
+		Key Light:
+			most intense light in a scene.
+		Fill Light:
+			Illumination from a source less bright than the key light used to soften deep shadows in a scene.
+		Backlight/Rim Light/Kicker:
+			An intense light source placed behind a subject that strikes the subject along the edge.
+
+	Eye Lights:
+		are aimed directly into the eyes of an actor to produce a gleam in the eye.
+
+	Lighting Schemes:
+		Low key lighting
+		High key lighting

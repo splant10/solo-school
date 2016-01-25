@@ -1,0 +1,24 @@
+Babbage, Kasiski, Friedman
+
+Babbage Kasiski Method:
+	- find keylength with repeated kgram offsets
+	- for each substring, find shift by hand\
+
+	Babbage: "I wish to god these calculations could be executed by steam!" poor guy wanted a computer.
+
+Friedman 1922
+	- find keylength with index of coincidence
+	- for each substring, find shift by index of mutual coincidence.
+
+Index of Coincidence:
+	Given basket of characters, probability that two equiprobably-selected characters are equal
+
+	{ a,a,a,a,b,b,c,d,d,d,e,e,e,e,e} ?
+	I_c  =  (4*3 + 2*1 + 1*0 + 3*2 + 5*4) / (15*14)
+	     =  (12  +  2  +  0  +  6  + 20 ) /  210
+	     =   0.19...
+
+	{ a,a,a,b,b,b,c,c,c,d,d,d,e,e,e } ?
+	I_c  =  (3*2 + 3*2 +  3*2 + 3*2 + 3*2) / (15*14)
+	     =  ( 6  +  6  +   6  +  6  +  6 ) /  210
+	     =   0.14...

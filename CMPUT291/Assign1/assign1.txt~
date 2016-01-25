@@ -1,10 +1,11 @@
 CREATE TABLE License (
-	number INTEGER,
+	lic_number INTEGER,
 	conditions CHAR(50),
 	class INTEGER,
 	issuing_date CHAR(20),
 	expiry_date CHAR(20),
-	photo ?????
+	photo ?????,
+	PRIMARY KEY (LicNumber),
 )
 
 CREATE TABLE Person (
@@ -14,16 +15,71 @@ CREATE TABLE Person (
 	height INTEGER,
 	name CHAR(50),
 	eye_color CHAR(20),
-	hair_color CHAR(20)
+	hair_color CHAR(20),
+	PRIMARY KEY (sin)
 )
 
 CREATE TABLE Violation (
-	id INTEGER,
+	violation_id INTEGER,
 	fine INTEGER,
 	type CHAR(20),
 	date CHAR(20),
 	officer_comments CHAR(100),
 	place CHAR(50),
 	vehicle INTEGER,
-	issuing_officer INTEGER
+	issuing_officer INTEGER,
+	PRIMARY KEY (violation_id)
+)
+
+CREATE TABLE Vehicle (
+	serial_number INTEGER,
+	type CHAR(20),
+	make CHAR(20),
+	model CHAR(20),
+	year INTEGER,
+	color char(20),
+	PRIMARY KEY (serial_number)
+)
+
+CREATE TABLE Auto_Sale (
+	as_id INTEGER,
+	price INTEGER,
+	registering_officer INTEGER,
+	date CHAR(20)
+	PRIMARY KEY (as_id)
+)
+
+CREATE TABLE buyer (
+	FOREIGN KEY (sin) REFERENCES Person(sin)
+	FOREIGN KEY (as_id) REFERENCES Auto_Sale(as_id)
+)
+
+CREATE TABLE seller (
+	FOREIGN KEY (sin) REFERENCES Person(sin)
+	FOREIGN KEY (as_id) REFERENCES Auto_Sale(as_id)
+)
+
+CREATE TABLE registered_owner (
+	FOREIGN KEY (sin) REFERENCES Person(sin)
+	FOREIGN KEY (serial_number) REFERENCES Vehicle(serial_number)
+)
+
+CREATE TABLE owns_a (
+	FOREIGN KEY (sin) REFERENCES Person(sin)
+	FOREIGN KEY (serial_number) REFERENCES Vehicle(serial_number)
+)
+
+CREATE TABLE involved (
+	FOREIGN KEY (serial_number) REFERENCES Vehicle(serial_number)
+	FOREIGN KEY (violation_id) REFERENCES Violation(violation_id)
+)
+
+CREATE TABLE receive (
+	FOREIGN KEY (sin) REFERENCES Person(sin)
+	FOREIGN KEY (violation_id) REFERENCES Violation(violation_id)
+)
+
+CREATE TABLE has_a (
+	FOREIGN KEY (sin) REFERENCES Person(sin)
+	FOREIGN KEY (lic_number) REFERENCES License(lic_number)
 )
