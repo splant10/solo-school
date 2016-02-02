@@ -1,0 +1,9 @@
+SQL:
+	DDL:
+		Data Definition
+			- populate data
+	DML:
+		Data Manipulation
+			- populate data
+			- update data
+
