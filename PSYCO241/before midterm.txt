@@ -1,0 +1,61 @@
+planning fallacy ***
+
+Predicting Behaviour From Attitudes
+	1. Attitudes sometimes conflict with other powerful determinants of behaviour.
+		Theory of reasoned action - maintains that peopl'es deliberate behaviour can be accurately predicted by knowing their attitudes toward specific behaviours and their subjective norms
+		Martin Fishbein / Icek Ajzen
+
+		Subjective norms: beliefs about whether others are likely to approve of a course of action
+		Theory of Planned behavoiur:
+			the successor to the thry of reasoned action that maints ... TEXT
+
+			Attitude + subjective norms + perceived behavioural intention affect things
+
+	2. Attitudes are sometimes inconsistent.
+		a. inconsistency between affective and cognitive components of attitudes.
+			affective: how do you *feel* about doing ...
+			cognitive: what do you *think* about doing ...
+		b. introspecting about the reasons for our attitudes. Introspection may lead us to focus on the most easily identifiable reasons for liking or disliking something at he expense of the real reasons. (Hindsight)
+
+	3. Attitudes are sometimes based on secondhand info
+		Attitutdes based on direct (or firsthand) experience predict subsequent behaviour much better than those derived indirectly (or secondhand).
+
+	4. Mismatched attitudes and actual attitude targets
+		Typically, attitudes are about general classes of things, whereas behaviour is directed toward concreat classes of things
+			(ex. " wee have to think more about environmental issues" then later "Oh wow that HUMMER H3 is cool!")
+
+
+
+
+Predicting Attitudes from Behaviour
+	a. Balance Theory (Heider 1958)
+		States that people try to maintain balance among their beliefs, cognitions, and sentiments.
+
+Cognitive Disonance Theory
+	Festinger, 1957
+	states that inconsistencies between a person's thoughts, sentiments, and actions create an aversive emotional state (dissonance) that leads to efforts to restore consistency. (ex: "I think environmental issues are important" ... "But I bought a luxurious gas-guzzling car").
+
+	Experiencing and reducing Dissonance:
+		1. Induced Compliance and Attitude Change:
+			induced (forced) compliance: subtly compelling individuals to behave in a manner that is inconsistent with their beliefs, attitudes, or values, which typically leads to dissonance and often to a change
+
+			Phase 1: participants engage in boring task.
+			Phase 2: Participants were asked to volunteer to be an experimenter, and to say that the task was iteresting.
+			Phase 3: Participants were asked to rate how much the experiment was actually interesting.
+
+		Self-affirmation theory:
+			taking stock of ones good qualities and core values, which can help a person cope with threats to self-esteem (and eliminate feelings of dissonance) (Claude Steele)
+
+			Science major students did not show dissonance reaction when they wore a lab-coat. Economics students didn't reduce dissonance. Dr. Steele suggests this happens because Science students are known to wear lab coats and are a part of their self-esteem. lab coats do not help maintain the identity of Economics students.
+
+Self-perception Theory
+	self-perception theory - states that people come to know their own attitudes by looking at thtier behaviour and the context in which it occured and inferring wha their attitudes must be
+	1. Inferring Attitudes
+	2. Evidece of self-directed inference:
+		interpersonal simulations: experiments in which an observer-participant is given a detailed description of one condition of a dissonance experiement, is told how a participant behaved in that situation, and is asked to predict the attitude of that participant.
+	3. Testing for arousal
+		Cognitive dissonance theory posits that inconsistency leads to arousal
+			vs.
+		Self-perception theory maintains that the perception of inconsistency is a cool cognitive process.
+
+	4.
