@@ -1,0 +1,51 @@
+What is montage?
+A synonym for editing
+An approach to editing developed by the Soviet filmmakers of the 1920's; it emphasizes dynamic, often discontinuous relationships between shots and the juxtaposition of images to create ideas not present in either shot by itself.
+
+Following the russian revolution, there aren't a lot of resources, so there isn't as much film, so they try a lot of experimenting.
+	Tried filming stuff live like a play,
+	Take previous films apart and re-edit them together.
+
+Kuleshov
+	- took an actor and had that actor with basically one expression (non-descript, placid expression)
+	- cut the expression with a bowl of soup, cut to guy, to dead body in coffin, then guy, then naked woman, then guy.
+	- hunger -> grief -> lust (meaning is from editing, not from actor's expression)
+	- proves the power of editing
+
+Kuleshov Effect:
+	a mental phenomenon by which viewers derive more meaning from the interaction of two sequential shots than a single shot in isolation
+
+Creative Geography:
+	creating a unified space out of shots made in various widely separated locations (eyeline matches help unify the space)
+
+Don't see these characters put in the space, no establishing shot.
+
+Kuleshov experiment is based on leaving out a scene's establishing shot and leading the spectator to infer spatial or temporal continuity from the shots of separate elements
+
+General Principles of Montage:
+	- meaning is constructed not simply shown.
+	- Art does not simply represent social reality.
+	- Montage dissects and analyses physical reality poetically through strategic framentation and reassembly of images.
+
+Montage editing typically used to:
+	- fragment time and space
+	- visually embody thematic and intellectual ideas
+
+Techniques of Soviet Montage:
+	- Non-diegetic inserts
+		- a shot or series of shots cut into a sequence, showing objects represented as being outside the space of the narrative.
+		Diegesis is the story world that the film creates.
+		Credits aren't seen by characters, BGM isn't heard by characters
+		Diegesis:
+			In a narractive film, the world of the film's story. The diegesis includes events that are presumed to have occurred and actions and spaces not shown onscreen.
+		Non-Diegetic:
+			a term used for any narrative sound or visual element not contained in the story world. Also called "extradiegetic".
+
+	- Overlapping editing
+		- the second shot repeats part or all of the action from the previous shot
+		- expands screen time noticeably
+		- makes things more dramatic
+
+	- Elliptical editing
+		- A portion of the event is left out, so the even takes less time that it would in reality.
+	- Graphic and rhythmic editing
