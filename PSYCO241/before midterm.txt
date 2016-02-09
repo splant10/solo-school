@@ -2,12 +2,12 @@ planning fallacy ***
 
 Predicting Behaviour From Attitudes
 	1. Attitudes sometimes conflict with other powerful determinants of behaviour.
-		Theory of reasoned action - maintains that peopl'es deliberate behaviour can be accurately predicted by knowing their attitudes toward specific behaviours and their subjective norms
+		Theory of reasoned action - maintains that people's deliberate behaviour can be accurately predicted by knowing their attitudes toward specific behaviours and their subjective norms
 		Martin Fishbein / Icek Ajzen
 
 		Subjective norms: beliefs about whether others are likely to approve of a course of action
-		Theory of Planned behavoiur:
-			the successor to the thry of reasoned action that maints ... TEXT
+		Theory of Planned behaviour:
+			the successor to the theory of reasoned action that maintains ... TEXT
 
 			Attitude + subjective norms + perceived behavioural intention affect things
 
