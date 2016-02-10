@@ -1,1 +1,18 @@
 Cipher Machines
+
+Number of Enigma Keys:
+	rotor placements: 3!
+	initial rotor positions: 26*26*26
+	plugboard settings: (12 plugs)
+		choose 12 letters out of 26
+		26 choose 12 = 26!/(12!(26-12)!)
+		choose smallest letter (alphabetic order)
+		1 way
+		choose its mate: 11 ways
+		choose next smallest letter (alphabetic order)
+		1 way
+		choose its mate: 9 ways
+		...
+		total = (26 choose 12)*11*9*7*5*3)
+		= 100,391,791,500
+	total number of 
