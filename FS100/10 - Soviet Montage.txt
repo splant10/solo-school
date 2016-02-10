@@ -48,4 +48,31 @@ Techniques of Soviet Montage:
 
 	- Elliptical editing
 		- A portion of the event is left out, so the even takes less time that it would in reality.
+
 	- Graphic and rhythmic editing
+		Graphic elements of a shot: shapes, colour, overall composition, or movement in a shot A may be picked up in shot B.
+
+	- Graphic Match:
+		two successive shots joined so as to create a strong similarity of compositional elements (e.g. colour, shape)
+
+For Eisenstein montage is a series of shocks, conflicts, or collisions. The shot is a 'montage cell' that maximaizes the graphic identity of each shot. There is a dynamizations of space as conflict both within and across the shots. This kind of montage encourages the spectator's active, mental participation.
+
+Montage and the film spectator: *not on eclass*
+	- to shock the spectator out of his or her passive or complacent relation with the image
+	- to require the spectator to actively interpret or read the relations between shots, rather than be passively shown an image.
+	- To break down and literally reconstruct the spectator's perception and understanding of social reality.
+	A + B != AB
+	A + B == C
+
+Ways a director may present a scene or sequence:
+	- series of short shots
+	- few long takes
+	- one single shot (sequence shot)
+
+Pace:
+	- the tempo at which the film seems to move.
+	- It is determined by the duration of individual shots and the style of editing.
+	- Other elements such as mise-en-scene and cinematography can also affect the rhythm and flow of the film.
+
+Rhythmic Editing:
+	the organization of the editing according to different paces or tempos determined by how quickly cuts are made.
