@@ -1,0 +1,2 @@
+The 9 questions on assignment 2 are all 10 marks each. Question 8 is a bit of a doozy so feel free to do 9 before it.
+Don't anything deeper than 3 subqueries.
