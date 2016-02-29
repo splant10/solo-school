@@ -30,3 +30,9 @@ Resistance to Persusion
 			Condition 2: (no attack)				6.5
 			Condition 3: (innoculation defense)		10.2
 			Condition 4: (supportive defense)		7.8
+
+Why are children so vulnerable to the impact of TV commercials?
+	Some data indicated that children under eight years tend to
+		1. have trouble distinguishing commercials from tV programs and failed to grasp the commercials' persuasive intent
+		2. trust television advertisising rather indiscriminately,
+		3. desire and badger their parents for advertised products
