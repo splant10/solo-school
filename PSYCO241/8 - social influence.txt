@@ -4,64 +4,82 @@ Shower video:
 Social Influence:
     The many ways that people impact one another, including changes in attitudes, beliefs, feelings, and behaviour, [...]
 
-    Conformity:
-        Changing one's behaviour in response to real or imagined pressure from others. Our clothes, for example, are heavily influenced by fashion trends from magazines, TV, etc.
-        1. Informational Social Influence:
-            - The influence of toher people that results from taking their comments or actions as a source of information as to what is correct or proper
-            - Group pressure affects peoples' perception (Sherif)
-            - The framing of the lines in the Muller-Lyer illusion causes us to think one line is longer than the other. Our perception is affected by social frame reference in a similar way.
-            - Autokinetic Effect: (Important)
-                - Sherif's classic study of group behaviours (1936) with the Autokinetic Effect. The group establishes a collective frame of reference.
-                *** When you are uncertain of the right answer, you tend to refer to the social frame.
-        2. Normative Social Influence:
-            - The influence of other people that comes from the desire to avoir their disapproval, harsh judgments, and other social sanctions.
-            - Group pressure would not affect the student's perceptions; it affects their behaviour (Asch).
-            -Asch's Conformity Experiment:
-                -There were a bunch of people who were asked a question about a drawn line's length. All but 1 person were confederates, and said the wrong answer on purpose, to see what the 1 actual participant would say following all of this.
-                *** When confederates made incorrect responses on 6 of the 12 trials in the experiment, 76% of the students went along with the group on at least one trial.
-        3. Factors Affecting Conformity
-            a. Group Size
-                - As the size of the group increases, participants level in conformity increases. After the group size reaches around 3-4, increasing further doesn't yield as much increase in conformity.
-            b. Group Unanimity
-                - 
-            c. Expertise and Status
-                - The type of statuses of others (ex. experts, high-status individuals) are an important factor of group conformity
-                - Informational Social Influence:
-                    Experts are more likely to be right. So, their opinions are taken more seriously.
-                - Normative Social Influence:
-                    The disapprobal of high-status individuals can hurt more than the disapproval of people one cares less about.
-            d. Culture
-                - Norwegian participants conformed more than French participants.
-                - People in interdependent countries were more likely than those in independent countries to show conformity effect       (especially when the other members came from their in-group).
-                - Individualism values opinions that stand apart from the majority, Collectivism values harmony within the group.
-            e. Gender
-                - Overall, women tend to conform a bit more than men. But, the results should be examined more carefully.
-                - Reality is that women tend to confirm more about male issues or in male domains whereas men tend to conform more about female issues and female domains.
-            f. Difficulty of the task
-                People are more likely to conform when they (1) find that the task is difficult and (2) that they are not familiar with and cannot handle the issue.
-            g. Anonymity
-                Internalization: Private acceptance of a propsition, orientation, or ideology.
-                Public compliance: Agreeing with someone or advancing a position in public to avoid disapproval but continuing to believe something else in private.
-            h. The Interpretive Context of Disagreement
-                - Subjects were made to listen to different tones at different lengths (Ex. E for 1 second vs B for 0.2 seconds). They were asked to listen to the tones and then had to answer as to which tone was longer in length. If subject were to get answer right, they'd get 10 points. Multiple subjects would give their answers, but if they said tone 2 was longer and it turned out to be true, they'd get 100 points. So when one subject says "I think it's tone 2!", the main subject will see them as biased, and wouldn't change their answer.
-                - Basically what this showed is that people don't conform as much if they think the other answers are biased.
-    Obedience:
-        Obedience to Authority:
-            1. The Setup of the Milgram Experiments
-                Under the pressure of authority, people can easily participate in violent activity.
-                Results: ~60% of test subjects continued to 'shock' a learner up to deadly levels (450V)
-            2. Opposing Forces
-                a. "Tuning in" the Learner
+Conformity:
+    Changing one's behaviour in response to real or imagined pressure from others. Our clothes, for example, are heavily influenced by fashion trends from magazines, TV, etc.
+    1. Informational Social Influence:
+        * The influence of toher people that results from taking their comments or actions as a source of information as to what is correct or proper
+        * Group pressure affects peoples' perception (Sherif)
+        * The framing of the lines in the Muller-Lyer illusion causes us to think one line is longer than the other. Our perception is affected by social frame reference in a similar way.
+        * Autokinetic Effect: (Important)
+            * Sherif's classic study of group behaviours (1936) with the Autokinetic Effect. The group establishes a collective frame of reference.
+            *** When you are uncertain of the right answer, you tend to refer to the social frame.
+    2. Normative Social Influence:
+        * The influence of other people that comes from the desire to avoir their disapproval, harsh judgments, and other social sanctions.
+        * Group pressure would not affect the student's perceptions; it affects their behaviour (Asch).
+        -Asch's Conformity Experiment:
+            -There were a bunch of people who were asked a question about a drawn line's length. All but 1 person were confederates, and said the wrong answer on purpose, to see what the 1 actual participant would say following all of this.
+            *** When confederates made incorrect responses on 6 of the 12 trials in the experiment, 76% of the students went along with the group on at least one trial.
+    3. Factors Affecting Conformity
+        a. Group Size
+            * As the size of the group increases, participants level in conformity increases. After the group size reaches around 3-4, increasing further doesn't yield as much increase in conformity.
+        b. Group Unanimity
+            * 
+        c. Expertise and Status
+            * The type of statuses of others (ex. experts, high-status individuals) are an important factor of group conformity
+            * Informational Social Influence:
+                Experts are more likely to be right. So, their opinions are taken more seriously.
+            * Normative Social Influence:
+                The disapprobal of high-status individuals can hurt more than the disapproval of people one cares less about.
+        d. Culture
+            * Norwegian participants conformed more than French participants.
+            * People in interdependent countries were more likely than those in independent countries to show conformity effect       (especially when the other members came from their in-group).
+            * Individualism values opinions that stand apart from the majority, Collectivism values harmony within the group.
+        e. Gender
+            * Overall, women tend to conform a bit more than men. But, the results should be examined more carefully.
+            * Reality is that women tend to confirm more about male issues or in male domains whereas men tend to conform more about female issues and female domains.
+        f. Difficulty of the task
+            People are more likely to conform when they (1) find that the task is difficult and (2) that they are not familiar with and cannot handle the issue.
+        g. Anonymity
+            Internalization: Private acceptance of a propsition, orientation, or ideology.
+            Public compliance: Agreeing with someone or advancing a position in public to avoid disapproval but continuing to believe something else in private.
+        h. The Interpretive Context of Disagreement
+            * Subjects were made to listen to different tones at different lengths (Ex. E for 1 second vs B for 0.2 seconds). They were asked to listen to the tones and then had to answer as to which tone was longer in length. If subject were to get answer right, they'd get 10 points. Multiple subjects would give their answers, but if they said tone 2 was longer and it turned out to be true, they'd get 100 points. So when one subject says "I think it's tone 2!", the main subject will see them as biased, and wouldn't change their answer.
+            * Basically what this showed is that people don't conform as much if they think the other answers are biased.
+Obedience:
+    Obedience to Authority:
+        1. The Setup of the Milgram Experiments
+            Under the pressure of authority, people can easily participate in violent activity.
+            Results: ~60% of test subjects continued to 'shock' a learner up to deadly levels (450V)
+        2. Opposing Forces
+            a. "Tuning in" the Learner
+        3. Would you hve obeyed?
+            a. They tried but failed
+            b. Release from responsibility
+            c. Step-by-step involvement
+    social influence in which the less powerful person in an unequal power relationship submits to the demands of the more powerful person.
 
-            3. Would you hve obeyed?
-                a. They tried but failed
-                b. Release from responsibility
-                c. Step-by-step involvement
-        social influence in which the less powerful person in an unequal power relationship submits to the demands of the more powerful person.
-    Compliance:
-        - responding favourably to an explicit request by another person.
-        1. Reason-based Approaches ***
-            - Norm of Reciprocity: a norm dictating that people should provide benefits to those who benefit them
-            a. Door-in-the-face technique: Asking someone for a very large favor that he or she will certainly refuse, and then following that request with one for a more modest favor.
+Compliance:
+    * responding favourably to an explicit request by another person.
+    1. Reason-based Approaches ***
+        * Norm of Reciprocity: a norm dictating that people should provide benefits to those who benefit them
+        a. Door-in-the-face technique: 
+            Asking someone for a very large favor that he or she will certainly refuse, and then following that request with one for a more modest favor.
+        b. The That's-not-all technique
+            Adding something to an original offer, which is likely to create some pressure to reciprocate. (Jerry Burger)
+        c. Foot in the door technique:
+            A compliance technique in which one makes an initial small request to which nearly everyone complies, followed by a larger request involving the real behaviour of interest.
+    2. Emotion Based Approach
+        a. Positive Mood
+        b. Negative Mood:
+            Negative state Relief hypothesis:
+                The idea that people engage in certain actions, such as agreeing to a request, in order to relieve negative feelings and to feel better about themselves.
 
+Resisting Social Influence:
+    Reactance theory:
+        - reasserting prerogatives in response to the unpleasant state of arousal experienced by people when they believe their freedoms are threatened.
+        - Steps for resistance:
+            1. Practice & experience
+            2. an ally with other members
+            3. Discerning the seed of compliance & obedience.
+            4. Learning from the history
 
