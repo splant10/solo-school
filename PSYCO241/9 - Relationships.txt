@@ -1,7 +1,10 @@
 Characterizing Relationships
     Interpersonal relationships:
-        attachments in which bonds of family or friendship or love or respect or hierarchy tie together two or more individuals [...]
+        attachments in which bonds of family or friendship or love or respect or hierarchy tie together two or more individuals over an extended period of time.
+        Harlow's Research of attachment in Rhesus Monkeys
 
+The Importance of Relationships:
+================================
 1. The need to belong ***
     5 criteria that determine whether we have a need to belong (Baumeister & Leary, 1995)
     a. Evolutionary basis for our most important relationships: Maximizing the increase likelihoods of one's reproduction
@@ -9,7 +12,7 @@ Characterizing Relationships
     c. Should guide social cognition
     d. Should be satiable. Satisfying your need to belong.
     e. If the need is chronically unmet, the person should suffer from profound negative consequences.
-2. Relationships and the sense of self
+2. Relationships and the sense of self ***
     Relational self theory:
         examines how prior relationships shape our current beliefs, feelings, and interactions vis-a-vis people who remind us of significant other from our past (It is similar to Freudian school's Object-Relation Theory)
     Relational Self:
@@ -45,8 +48,69 @@ The Origins of How We Relate to Others:
     - Avoidant attachment style
         + feelings of insecurity in relationships; these persons are prone to exhibit compulsive self-reliance, prefer distance from others, and during conditions of threat and uncertainty are dismissive and detached
     - Anxious attachment style
-        + Feelings of insecurity ...
-3. Cultural Differences in Attachment Style
+        + Feelings of insecurity in relationships; these persons compuslively seek closeness, express continual worries about relationships, and during situations of threat and uncertainty, excessively try to get closer to others.
+3. Cultural Differences in Attachment Style ***
     Many German children show avoidant attachment styles. Many Israeli and Japanese children show anxious attachment styles. Are they unhealthy children?
 
-Cultural Variations in Attachment Styles
+Cultural Variations in Attachment Styles ***
+    - Sharing night time with others (co-sleeping):
+        - European decent middle-class North Americans, infants sleep by themselves in their own bedroom.
+        - But, Japanese think that leaving their infants alone at night is regarded as a form of child abuse.
+        - As a default, Japanese kids always stay with their caregivers.
+        - The very first experiences of infant-caregiver relationships may be the foundation of cultural variations in interpersonal relationships.
+
+Romantic Relationships:
+    Triangular Theory of Love:
+        There are 3 major components of love - intimacy, passion, and commitment, which can be combined in different ways.
+
+                                                Liking
+                                              (intimacy)
+                                                  /\ 
+                                                 /  \   
+                                                /    \
+                                               /      \
+                                              /        \
+                                             /          \
+                                            /            \
+                      Romantic Love        /              \      Companionate Love
+                   (passion + intimacy)   / Consumate Love \  (intimacy + commitment)
+                                         /    (intimacy     \
+                                        /     + passion      \
+                                       /     + commitment)    \
+                                      /                        \
+                       Infatuation   /__________________________\   Empty Love
+                        (passion)                                  (commitment)
+                                             Fatuous Love
+                                         (passion + commitment)
+    
+    1. Marital Dissatisfaction
+        a. Demofraphic predictors of marital dissatisfaction and divorce
+        b. The interaction dynamics of unhappy partners: the study of behaviours and conversations of couples, with a focus on negative behaviours such as anger, criticism, defensiveness, contempt, sadness, and fear, and positive behaviours such as affection, enthusiasm, interest, and humour.
+            * Men are more prone to expressing contempt of their partner or ex partner, practically twice as much as women.
+        c. Dangerous Attributions
+    2. Creating Stronger Romantic Bonds
+        a. The Investment  Model of Interpersonal Relationship:
+            Three things make partners more committed to one another: rewards, alternatives, and investments in the relationship.
+        b. Illusions and Idealization in Romantic Relationships
+        c. Novel and Arousing Activities
+    3. Cultural Variations in Marital Relationships.
+        Mate selection Practice among Preindustrial Societies (Broude & Green, 1983):
+                                                                                                  Men   Women
+        Parents choose partner, individual cannot object                                          13%   21%
+        Parents choose partner, individual can object                                             17%   23%
+        Individual choice and arranged marraige are both acceptable                               18%   17%
+        Individuals, parents, kin, and others must reach agreement on an appropriate match        3%    3% 
+        Individual select partner autonomously, parental, community approval by others necessary  19%   29%
+        Individual select partner autonomously, approval by others unnecessary                    31%   8%
+    Arranged Marriage:
+        Will you only end up loving those people whom you have chosen for yourself?
+        Is love ultimately an individualistic choice?
+        Is a marriage without love at the foundation bound to be miserable?
+        Well turns out from a study on marriage types in India, over time, arranged marriages increased in partner happiness, whereas chosen marriages deteriorated on average.
+    Taka says to not disregard the value of arranged marriage!
+
+Summary:
+There is a biologically based need to belong. Evolutionary theories point out the benefits of relationships.
+Bowlby's attachment theory suggests that the very first experiences of interpersonal relationships are the most important.
+There are varieties of interpersonal relationship patterns.
+Even the romantic relationship is not monolithic.
