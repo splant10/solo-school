@@ -5,20 +5,20 @@ public class test1{
 public static void main(String[] args){
 	try { 
 
-		//database configuration
+		// database configuration
 		DatabaseConfig dbConfig = new DatabaseConfig();
 		dbConfig.setType(DatabaseType.BTREE);
 		dbConfig.setAllowCreate(true);   
 
-		//Create a database 
+		// Create a database 
 		Database std_db = new Database("students.db", null, dbConfig);
 		OperationStatus oprStatus;
 
-		//Inserting Data into a database
+		// Inserting Data into a database
 		DatabaseEntry key = new DatabaseEntry();
 		DatabaseEntry data = new DatabaseEntry();
 		
-		//Other variables
+		// Other variables
 		String id = "1";
 		String name="Josh";
 		data.setData(name.getBytes());
@@ -34,7 +34,7 @@ public static void main(String[] args){
 		System.out.println("Name = " + b + "\n");
 	
 		// delete a row
-		//oprStatus = std_db.delete(null, key);
+		// oprStatus = std_db.delete(null, key);
 		
 		// Closing the connection
 		std_db.close();

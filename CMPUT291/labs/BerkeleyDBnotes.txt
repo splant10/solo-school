@@ -1,0 +1,17 @@
+March 21 2016 - CMPUT 291 Lab
+
+Indexing Structures:
+	-> list of items, storage.
+
+	B-Tree
+	Hash
+
+for lab machines, running java terminal programs dealing with DB:
+	CLASSPATH=$CLASSPATH:.:/usr/share/java/db.jar:.
+	export CLASSPATH
+	LD_LIBRARY_PATH=/oracle/lib
+	export LD_LIBRARY_PATH
+compile with:
+	javac filename.java
+run with:
+	java filename
