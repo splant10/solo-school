@@ -1,0 +1,3 @@
+script a2-script
+sqlplus   splant   @a2-query.sql
+exit

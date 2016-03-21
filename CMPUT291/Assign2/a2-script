@@ -1,0 +1,146 @@
+Script started on Fri 12 Feb 2016 01:45:34 PM MST
+splant@uc11:~/git/solo-school/CMPUT291/Assign2>sqlplus splant @a2-query.sql
+
+SQL*Plus: Release 12.1.0.2.0 Production on Fri Feb 12 13:45:46 2016
+
+Copyright (c) 1982, 2014, Oracle.  All rights reserved.
+
+Enter password: 
+Last Successful login time: Fri Feb 12 2016 13:38:27 -07:00
+
+Connected to:
+Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production
+With the Partitioning, OLAP, Advanced Analytics and Real Application Testing options
+
+
+SERIAL_NO
+---------------
+000000000000007
+000000000000014
+000000000000015
+000000000000016
+000000000000005
+000000000000006
+000000000000009
+000000000000005
+000000000000008
+000000000000011
+000000000000012
+
+11 rows selected.
+
+
+NAME
+----------------------------------------
+ADDR						      TYPE_ID
+-------------------------------------------------- ----------
+Spencer Plant
+CS Building, U of A, Edmonton				  800
+
+James Bond
+undisclosed						  800
+
+Alexander Brown
+96 Evergreen Rd, Vegerville				  800
+
+
+NAME
+----------------------------------------
+ADDR						      TYPE_ID
+-------------------------------------------------- ----------
+Randy MacMillan
+4563 Vermilion St, Banff				  800
+
+
+
+LICENCE_NO	NAME					 COLOR
+--------------- ---------------------------------------- ----------
+225544-456	Harry Simmons				 Beige
+225544-456	Harry Simmons				 Black
+225544-456	Harry Simmons				 Blue
+225544-456	Harry Simmons				 Green
+225544-456	Harry Simmons				 Mustard
+225544-456	Harry Simmons				 Silver
+225544-456	Harry Simmons				 White
+225544-456	Harry Simmons				 Yellow
+461583-687	Randy MacMillan 			 Beige
+461583-687	Randy MacMillan 			 Black
+461583-687	Randy MacMillan 			 Blue
+
+LICENCE_NO	NAME					 COLOR
+--------------- ---------------------------------------- ----------
+461583-687	Randy MacMillan 			 Green
+461583-687	Randy MacMillan 			 Mustard
+461583-687	Randy MacMillan 			 Silver
+461583-687	Randy MacMillan 			 White
+461583-687	Randy MacMillan 			 Yellow
+566565-444	Spencer Plant				 Beige
+566565-444	Spencer Plant				 Black
+566565-444	Spencer Plant				 Blue
+566565-444	Spencer Plant				 Green
+566565-444	Spencer Plant				 Mustard
+566565-444	Spencer Plant				 Silver
+
+LICENCE_NO	NAME					 COLOR
+--------------- ---------------------------------------- ----------
+566565-444	Spencer Plant				 White
+566565-444	Spencer Plant				 Yellow
+568789-326	Sally Simmons				 Beige
+568789-326	Sally Simmons				 Black
+568789-326	Sally Simmons				 Blue
+568789-326	Sally Simmons				 Green
+568789-326	Sally Simmons				 Mustard
+568789-326	Sally Simmons				 Silver
+568789-326	Sally Simmons				 White
+568789-326	Sally Simmons				 Yellow
+662444-332	Zoe Carlson				 Beige
+
+LICENCE_NO	NAME					 COLOR
+--------------- ---------------------------------------- ----------
+662444-332	Zoe Carlson				 Black
+662444-332	Zoe Carlson				 Blue
+662444-332	Zoe Carlson				 Green
+662444-332	Zoe Carlson				 Mustard
+662444-332	Zoe Carlson				 Silver
+662444-332	Zoe Carlson				 White
+662444-332	Zoe Carlson				 Yellow
+666666-666	Officer Jane				 Beige
+666666-666	Officer Jane				 Black
+666666-666	Officer Jane				 Blue
+666666-666	Officer Jane				 Green
+
+LICENCE_NO	NAME					 COLOR
+--------------- ---------------------------------------- ----------
+666666-666	Officer Jane				 Mustard
+666666-666	Officer Jane				 Silver
+666666-666	Officer Jane				 White
+666666-666	Officer Jane				 Yellow
+700700-700	James Bond				 Beige
+700700-700	James Bond				 Black
+700700-700	James Bond				 Blue
+700700-700	James Bond				 Green
+700700-700	James Bond				 Mustard
+700700-700	James Bond				 Silver
+700700-700	James Bond				 White
+
+LICENCE_NO	NAME					 COLOR
+--------------- ---------------------------------------- ----------
+700700-700	James Bond				 Yellow
+777777-777	Officer Jim				 Beige
+777777-777	Officer Jim				 Black
+777777-777	Officer Jim				 Blue
+777777-777	Officer Jim				 Green
+777777-777	Officer Jim				 Mustard
+777777-777	Officer Jim				 Silver
+777777-777	Officer Jim				 White
+777777-777	Officer Jim				 Yellow
+
+64 rows selected.
+
+SQL> exit
+Disconnected from Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production
+With the Partitioning, OLAP, Advanced Analytics and Real Application Testing options
+splant@uc11:~/git/solo-school/CMPUT291/Assign2>exit
+exit
+
+Script done on Fri 12 Feb 2016 01:45:55 PM MST
