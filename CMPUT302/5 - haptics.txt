@@ -1,0 +1,30 @@
+Haptic perception
+    Mechanoreceptors on the skin
+        Cells - ends of neurons that allow actual perception
+        Meissner's corpuscule - small receptive field size, fast adaptation
+        Pacinian corpuscule - large receptive field size, fast adaptation
+        Merkel's disk - small receptive field size, slow adaptation
+        Ruffini's ending - large receptive field size, slow adaptation
+Temperature
+Pain
+
+Proprioception (Kinesthesia)
+    muscle length and tension   
+    joint position.
+    Perception of limb movement and position, force
+    Muscle receptors (muscle spindles and Golgi tendon organs)
+        Golgi tendon organs:    
+            provide information about changes in muscle tension. Force sensing.
+        Muscle Spindles:
+            provide information about hcanges in muscle length. Position sensing.
+    Joint receptors (in capsules and ligaments of joints)
+    skin receptors (slowly adapting cutaneous mechanoreceptors that measure skin stretch)
+    Rufini endings, Merkel Cells in hairy skin, and field receptors
+
+    Dorsal Column - medical lemniscal system
+        Provides information about tactile sensation and limb proprioception
+
+    Spinothalamic pathway
+        provides information [...]
+
+    

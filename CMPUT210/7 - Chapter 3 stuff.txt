@@ -1,0 +1,71 @@
+1900 Europe
+Cryptanalysts beating cryptographers
+	Vigenere cipher was being broken
+
+Disruptive Technology
+	- Radio (1894 Marconi - 1901 St John's to Cornwall)
+
+1905 - Santayana : those who cannot remember the past are condemned to repeat it.
+1935 Churchill:
+	When the situation was manageable it was neglected, and now that it is thoroughly out of hand we apply too late the remedies which then might have effected a cure. There is nothing new in the story. It is old as the sibylline books. It falls into that long, dismal catalogue of the fruitlessness of experience and the confirmed unteachability of mankind. Want of foresight, unwillingness to act when action would be simple and effective, lack of clear thinking, confusion of counsel until the emergency comes, until self-preservation strikes its jarring gong - these are the features which constitute the endless repetition of history.
+
+Losers get hungry, winners get fat.
+
+France had lost Alsace, getting hungry
+Germany had won Alsace, getting fat.
+
+Kerchoffs -> France: cryptanalyst teams pre WWI
+adfgvx: Germany 1918
+	Polubius grid, then columnar transposition (keyword perm)
+
+Germany advancing, so no landlines, so radio
+Germany: no cryptanalyst teams until 1916.
+
+adfgvx:
+	Polybius grid:
+
+   A D F G V X
+A  8 P 3 D 1 N
+D  L T 4 O A H
+F  7 K B C 5 Z
+G  J U 6 W G M
+V  X S V I R Z
+X  9 E Y 0 F Q
+
+Keyword CUBE
+
+c  r  a  c  k  e  d  b  y  ? ? ? ? ? ? ? ? ? ? ?  ? ? ? 
+FG VV DV FG FD XD AG FF XF ** ** ** ** ** ** **
+
+C U B E  >>>  B 		 C 	 	     E 			 U
+
+F G V V 	  VFXF*******FDFAX*******VGDF********GVDGF********
+D V F G
+F D X D
+A G F F
+X F * *
+* * * *
+* * * *
+* * * *
+* * * *
+* * * *
+* * * *
+* *
+
+
+Cracking example (keyword length known: 4):
+
+v d g g f x x g g d d v d f g g d g g v d d f d x d d v v v d d f x a g a a a x
+
+v d d d
+d v d d
+g d f f
+g f d x
+f g x a
+x g d g
+x d d a
+g g v a
+g g v a
+d v v x
+
+Zimmermann 

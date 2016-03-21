@@ -1,0 +1,7 @@
+Nested queries
+	Example:
+	consider a university registration system with three tables
+		course(cid, term, title)
+		student(sid, name, major, address, phone)
+		registration(sid, cid, term, grade)
+	

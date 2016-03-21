@@ -1,0 +1,108 @@
+Chapter 8 Persuasion:
+
+The Basics of Attitudes:
+	Attitude: evaluation of an object in a positive or negative fashion that includes the 3 elements of affect, cognitions, and behaviour.
+		Affect: Emotional Reaction to the object
+		Cognition: Beliefs, ideas, memories, and images of the object
+		Behaviour: Action towards the object.
+	Measuring attitudes:
+		likert Scale - used to assess people's attitudes. Includes a set of possible answers that have anchors on each extreme.
+		ex: Do you like the Oilers? Not at all 1--2--3--4--5 Extremely
+		Self reports often have a few discrepancies.
+
+The Function of Attitudes:
+	1. The utilitarian function of attitudes
+		Attitudes serve to alert us to rewarding objects and situation we should approach, and costly or punishing objects or situations we should avoid. (unknown mushroom might be pretty, but we know not to eat it. If the scenery around you is beautiful, that's suggesting to you that you should stay there since it's safe.)
+	2. The ego-defensive function of attitudes
+		Attitudes enable us to maintain cherished beliefs about ourselves by protecting us from awareness of our negative attributes and impulses or from facts that contradict our cherished beliefs and desires.
+			Terror Management Theory:
+		Terror Management Theory:
+			says that to ward off the anxity we feel when contemplating our own demise, we cling to cultural worldviews and conventional values out of a belief that relieve ...
+
+			If mortality is salient, people:
+				- become more favorable to those who uphold their cultural values or worldview and more negative toward those who don't
+				- Adhere more to cultural norms
+				- Become more ethnocentric
+				- Become more favorable to the idea that human beings differ from other species
+	3. The value-expressive function of attitudes
+		Reference groups: groups whose opinions matter to us and that affect our opinions and beliefs
+		Does change in reference group influence attitudes towards political parties?
+		Theodore Newcomb
+	4. The knowledge function of attitudes
+		Our attitudes lead us to seek out and selectively attend to information that bolsters our preexisting attitudes.
+		ex:	- Prejudicial attitude toward a different out-group
+			- The US President Candidacy in 1980 - Reagan supporters thought Reagan won, Carter supporters thought Carter won, even though they watched the same thing.
+		Having an attitude can influence our patterns of attention.
+
+Persuasion and Attitude Change:
+	John Cacioppo / Richard E. Petty
+	1. The two-process Approach to Persuasion
+		Elaboration-Likelihood Model:
+			Peripheral Process - the person primarily attends to superficial aspects of the message
+			Central Process - the person thinks carefully and diliberately about the content of the message
+	2. The Who, What, and Whom of Persuasion:
+		a. Source characteristics:
+			For those who take the path of peripheral-route of persuasion
+				(1) Whether the speaker or the model in an advertisement was attractive or not played an important role in people's judgments (the effect of attractiveness)
+				(2) Whether the person is an expert or not is a big issue for their judgment (the effect of credibility)
+		b. Message characteristics
+			The effect of high-quality info
+			The effect of vividness
+			The effect of arousing fear
+				ex: Changing smoking habits
+					1. Pamphlet only (instructions)
+					2. Film only (fear) 
+					3. Film + Pamphlet (instructions + fear) most effective
+		c. Receiver Characteristics:
+			need for cognition - the degree to which people like to think deeply about issues
+				The central route: high in need for cognition
+				The peripheral route: low in need for cognition
+			The effect of mood - people in a good mood are more susceptible to persuasive attempts.
+			The effect of age - Children, teenagers, and young adults are more susceptible to persuasive attempts than elder people.
+
+	Case studies in Persuasion: Cult indoctrination
+		New religious movements
+			Sun Myung ...
+		Attitudes follow behaviour
+			compliance breeds acceptance
+			The foot-in-the-door technique
+
+Persuasion is often used by cults:
+Attitudes follow behaviour
+	complicance breeds acceptance
+		the foot in the door technique
+	Persuasive elements:
+		source characteristics (eg leaders authority)
+		message characteristics (eg emotional message)
+		receiver characteristics (eg age, level of trust)
+	Group size
+
+Resistance to Persusion
+	Attentional Biases and Resistance
+		-Ziva Kunda
+		-Caffeine consumption in females is associated with an increased risk of fibrocystic disease
+		-Men and women of both low and high caffeine consumer groups were told this. Men had no difference in being convinced by the artical if they were high or low. Women, however, were more likely to believe the artical if they were LOW caffeiene consumers, while less likely to believe the article if they consumed a lot of caffiene.
+	Previous Commitments and Resistance
+		-Abraham Tesser
+		-Public commitment increases our resistance to persuasion
+			1. it is hard to back down from a public commitment
+			2. public commitment forces us to have a more extreme opinion
+		-Thought Polarization hypothesis:
+			the hypothesis that more extended thought about a particular issue tends to produce more extreme, entrenched attitudes.
+	Knowledge and Resistance
+		People with a great deal of knowledge are more resistant to persuasion
+	Attitude Inoculation
+		Small attacks upon our belifs that engage our attitudes, prior commitments, and knowledge structures, enabling us to counteract a subsequent larger attack and be resistant to persuasion
+		-Attitude innoculation experiments:
+			"it's a good idea to brush your teeth after every meal if possible"
+			"Presitgious authorities were said to have discovered that too much tooth-brushing can damage one's gums"
+			Condition 1: (prior to attack)			Support of Truism: 12.5
+			Condition 2: (no attack)				6.5
+			Condition 3: (innoculation defense)		10.2
+			Condition 4: (supportive defense)		7.8
+
+Why are children so vulnerable to the impact of TV commercials?
+	Some data indicated that children under eight years tend to
+		1. have trouble distinguishing commercials from tV programs and failed to grasp the commercials' persuasive intent
+		2. trust television advertisising rather indiscriminately,
+		3. desire and badger their parents for advertised products

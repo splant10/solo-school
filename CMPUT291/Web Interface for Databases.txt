@@ -1,0 +1,37 @@
+This stuff wont be on the final.
+
+Database accesses
+	how to access a database server through a network?
+		interactive access: 
+			Oracle sqlplus
+		Embedded SQL
+			embedded C
+				Host language + standard SQL statements placed within application programs
+				Oracle Pro*C/C++
+		Standard interfaces:
+			Open Database Connectivity (ODBC)
+			Java Database Connectivity (JDBC)
+Database Application Systems:
+	software developed for performing a specified set of tasks involving database queries and updates
+		mission critical
+		decision making
+Common Gateway Interface (CGI)
+	A standard approach to interfacing external programs to web servers and/or databases
+	(HTML documents are static)
+	A CGI program will be executed in real time and thus can output dynamic information
+	It is basically ...
+
+CGI
+	Security Concerns
+		a client is capable of running a program in your computer system!
+	Packaged software
+	One database connection per request
+		relatively slow
+		development cost
+	Pool of database connections maintained by the database server
+
+Java Applet
+	Java applets are program modules that extend web browsers, and therefore can be used for web users to access the database servers.
+	Not as popular today as 10 years ago.
+	Java applets use the JDBC driver to connect to a server.
+	Performance is better, since things can be downloaded.

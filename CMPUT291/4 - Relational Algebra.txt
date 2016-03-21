@@ -1,0 +1,7 @@
+Cartesian Product is frequently used with some restriction. Even still, try not to use cartesian product in databases, since it is computationally expensive.
+
+Cartesian Product makes huge tables. Say you have a table with 3 columns and 100 rows. Cartesian product of that table * itself will create a table with 3*2 = 6 columns, but will have 100^2 = 10000 rows.
+
+to retrieve information from one table to another, you have to use Cartesian product.
+Likely have to use cartesian product in every question on the assignment.
+

@@ -1,0 +1,4 @@
+Experimental Design and Statistics
+	Why use stats?
+		all course projects must have a user study
+		The results of this study must be analyzed using standard statistical methods

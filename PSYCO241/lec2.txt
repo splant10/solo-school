@@ -24,10 +24,10 @@ Evolutionary Aspects of the self
 
 	Why do humans have large brains?
 	Social Brain Hypothesis:
-		Primate brain evolutionappears to be largely driven by their highly social lifestyle
+		Primate brain evolution appears to be largely driven by their highly social lifestyle
 		(e.g. living with more than 150 individuals)
 
-	The concept of symbolix self should be a universal, part of our evolutionary heritage
+	The concept of symbolic self should be a universal, part of our evolutionary heritage
 		- there are many type of hominids, but only humans have self-awareness/self-consciousness
 
 Cultural Aspects of the Self
@@ -50,7 +50,7 @@ Theory of Mind:
 	The ability to attribute mental states - beliefs, intents, desires, pretending, knowledge,
 	etc. - to oneself and others and to understand that others have their own mental states
 
-	Chimpanzees are able to deceive other group memebers (especially those who are stronger than them)
+	Chimpanzees are able to deceive other group members (especially those who are stronger than them)
 	But, it doesn't seem like chimpanzees have a theory of mind.
 
 	The False Belief Task (Wimmer, H., & Perner, J 1983)

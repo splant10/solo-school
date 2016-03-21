@@ -1,0 +1,58 @@
+Sound:
+
+    Sound Effects
+        Sounds made by objects
+        Sounds made by people (other than spoken words)
+        Define Location
+        Lend Mood to an environment
+        Portray the Environment's impact on characters
+    Music
+    Spoken Words
+        Dialogues and monologues
+            Text and subtext
+            Volume
+            Pitch
+            Speech characteristics
+            Acoustic qualitites
+            Voice over
+        Narration
+    Silence
+        No Sound.
+    Ambient Sound
+        The sound atmosphere of a place that people tend not to notice
+
+<<<
+Trombone Shot (Vertigo effect)
+    tracking in while zooming out (combines camer movement and lens movement)
+<<<
+
+    Sound Hierarchy
+        The relative priority given to dialogue, effects, music in a given scene
+        In most cases, dialogue is considered most important of these sounds and rests atop of the sound hierarchy
+
+    Dialogue Overlap
+        In editing a scene, arranging the cut so that a bit of dialogue coming from Shot A is heard under a shot which shows another character or another element in the scene.
+
+    Overlapping Dialogue
+        Mixing two or more characters speech to imitate the rhythm of speech.
+
+    Diegetic Sound
+        Any voice, musical passage, or sound effect presented as originating from a source within the film's world
+    Non Diegetic Sound
+        Sound such as mood music, or a director's commentary, represented as coming from a source outside the space of the narrative.
+    Semi-diegetic sound
+        Sound that is neither strictly diegetic or non-diegetic
+
+    Sound Perspective:
+        The apparent location and distance of a sound source.
+
+    Aural POV
+        Subjective sound from the perspective of the character
+
+    On screen sound:
+        Sound that derives from an on-screen source such as someone viewers see and hear sneezing
+
+    Off screen sound:
+        Sound that does not derive from an onscren source, such as an unseen dog barking or music that is not made by anyone within frame.
+
+
