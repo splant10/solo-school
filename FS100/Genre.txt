@@ -45,3 +45,71 @@ Six Principle Genres
 				- humour takes a second place to happiness
 				- When Harry Met Sally (1989)
 	Musicals
+		- Characters who act out and express their emotions through song and dance
+		- Plots interrupted or moved forward by musical numbers
+		- Spectacular sets and setting such as Broadway theatres, fairs, and dramatic social or grand natural backgrounds or animated environments.
+		Types of musicals:
+			Theatrical
+				- Ones in which plot or narrative is set in a world which explains the musicality
+				- Situates the music onstage or backstage
+				- Chicago
+			Integrated
+				- As the name sugests, integrates the musical numbers into more common situations, and realistic actions.
+				- Dancer in the Dark (2000)
+			Animated
+				- Cartoon figures and stories to present music
+				- Fantasia (1940)
+	Westerns
+		- Characters whose physical and mental toughness separate them from the crowds of modern civilization
+		- narratives that follow some version of a quest into the natural world.
+		- A stylistic emphasis on open, natural spaces and settings, such as the western frontier regions in the US
+		Subgenres:
+			Existential Western
+				- the traditional western hero is troubled by his changing social status and his self-doubts.
+				- Unforgiven
+			The Western Epic
+				- Concentrates on action and movement, developing a heroic character whose quests and battles serve to define nation and its origins.
+				- Dances with Wolves (1990)
+			Political Western
+				- a critical western in which the ideology and politics that have defined the genre are fore-grounded.
+				- The Wild Bunch (1969)
+	Melodramas
+		- Characters who struggle, often desperately to express their feelings or emotions
+		- Narrative that build toward emotional or physical climaxes
+		- A visual style drawn to interior scenes and close-ups
+		Subgenres
+			Physical Melodrama:
+				- focuses on the physical plight and material conditions that repress or control the protagonist's desires and emotions
+				- Boys Don't Cry (1999)
+			Family Melodrama:
+				- elaborates on the confines and restrictions of the protagonist by investigaing the psychological and genered forces of the family.
+				- The Namesake (2006)
+			Social Melodrama:
+				- extends the melodramatic crisis of the family to include the larger historical, communal, and economic issues.
+				- A Time to Kill (1996)
+	Crime films
+		- characters who live on the edge of a mysterious or violent society (the underworld) either criminals or individuals dedicated to crime detection
+		- plots of crime, increasing mystery, and often ambiguous resolution
+		- urban, often dark and shadowy settings.
+		Subgenres
+			Gangster films 
+				- Public Enemy
+			Hard-boiled Detective Films
+				- Maltese Falcon
+			Film Noir
+				- Touch of Evil
+	Horror
+		- characters with physical, psychological, or spiritual deformities, sometimes existing together in one character.
+		- narratives are built around suspense, surprise, and shock.
+		- visual compositions that move between the dread of not seeing and the horror of seeing
+		Subgenres
+			Supernatural Horror
+				- A spiritual evil erupts in the human realm
+				- The Exorcist (1973)
+			Psychological Horror
+				- Locate dangers and distortions that threaten normal life in the minds of deranged and bizarre individuals
+				- Silence of the Lambs
+			Physical Horror - Slasher
+				- depiction of graphic violence takes primary place
+				- Texas Chainsaw Massacre (1974)
+	
