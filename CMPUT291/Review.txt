@@ -1,0 +1,49 @@
+Anything here will likely be on final. Anything not won't be on final.
+
+E-R Model
+	-A Logical tool for database design
+	- Entity
+		- distinguished objects
+	-Relationships
+		-associations among entities
+	-ER Diagrams
+	- Mapping constraints
+		-one-to-one, one-to-many, many-to-many
+	-Keys
+		-candidate keys
+		-primary keys
+	-Reduce and ER diagram to tables
+		-one table for one entity set
+		-one table for one relationships set
+		-reduce tables if possible
+
+	There will be two questions: construct a ER model, and create a series of SQL statements to make tables
+
+Relational Data Model
+	-relational algebra
+		- Five fundamental operators.
+	-Basic idea
+		-a seto of tables
+	-Database scheme
+		-a set of relation schemes
+		- a relation scheme is a set of attributes
+	-Database design
+		-from an ER model to a set of tables
+	-Formal Query Languages
+		-relational algebra    pi, sigma, x, union, -, intersection, x, /
+	-SQL
+		S
+SQL
+	-DDL
+	-Updates
+	-Query
+
+Database
+	-Functional Dependencies
+	-BCNF
+
+File structure
+	-B-Tree, Hash, Index
+	-RAID
+
+Transaction and isolation level
