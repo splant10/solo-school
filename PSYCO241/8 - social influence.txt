@@ -14,7 +14,7 @@ Conformity:
             * Sherif's classic study of group behaviours (1936) with the Autokinetic Effect. The group establishes a collective frame of reference.
             *** When you are uncertain of the right answer, you tend to refer to the social frame.
     2. Normative Social Influence:
-        * The influence of other people that comes from the desire to avoir their disapproval, harsh judgments, and other social sanctions.
+        * The influence of other people that comes from the desire to avoid their disapproval, harsh judgments, and other social sanctions.
         * Group pressure would not affect the student's perceptions; it affects their behaviour (Asch).
         -Asch's Conformity Experiment:
             -There were a bunch of people who were asked a question about a drawn line's length. All but 1 person were confederates, and said the wrong answer on purpose, to see what the 1 actual participant would say following all of this.

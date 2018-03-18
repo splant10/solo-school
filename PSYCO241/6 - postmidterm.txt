@@ -62,10 +62,6 @@ Persuasion and Attitude Change:
 
 	Case studies in Persuasion: Cult indoctrination
 		New religious movements
-			Sun Myung ...
-		Attitudes follow behaviour
-			compliance breeds acceptance
-			The foot-in-the-door technique
 
 Persuasion is often used by cults:
 Attitudes follow behaviour
@@ -96,7 +92,7 @@ Resistance to Persusion
 		-Attitude innoculation experiments:
 			"it's a good idea to brush your teeth after every meal if possible"
 			"Presitgious authorities were said to have discovered that too much tooth-brushing can damage one's gums"
-			Condition 1: (prior to attack)			Support of Truism: 12.5
+			Condition 1: (prior to attack)			Support of Truism: 								   12.5
 			Condition 2: (no attack)				6.5
 			Condition 3: (innoculation defense)		10.2
 			Condition 4: (supportive defense)		7.8
