@@ -1,0 +1,116 @@
+10 (TEENNNNN!) questions on final are from this lecture material.
+
+We are not perceiving social phenomena as they are. we actively evaluate ourselves
+
+2 major distal factors: evolution, and culture
+
+Proximal Distal Influences in Social Psychology
+	Proximal - Factors that exits in the her-and-now or that immediately precede what the individual does
+	Distal - factors that are more removed in time from a given context or episode
+	in recent years, two distal factors have greatly influenced the field of soc psych
+
+	Evolutionary Psychologist attempt to explain commonalities in human behaviour as due to adaptation.
+
+	[...]
+
+	Evolution and Human Behaviour
+		Darwin assume that natural selection is just as important for behavioural propensities as they are for biological characteristics.
+		Evolutionary Foundation of Cognition, Aggression, Emotion, Language Ability, and Mating Strategy.
+		Identifying:
+			1. Genetic Bases of Behaviour
+			2. Human Universals
+			3. Survival Values of Behaviour
+			REmember researchers names from this lecture material
+		Cultural Universals
+			Cosmide & Tooby
+				Every species has a universal, species-typical evolved architecture
+				... These evolved psychological [..]
+				From their point of view, cultural differences in psychological processes are largely superficial
+					they want to investigate human cognition which is supposed to be universal. 
+		Culture and Human Behaviour
+			cultural psycholgy: research field that invetgates mutual relationships between cuture and the human psyche - Richard Shweder
+				- we cannot 
+			Jerome Bruner maintains our behaviour is not just a reflection of stimuli. We react based on our interpretations, which are influenced by culture.
+			Cultural Psychology
+				Cultural Variation in 
+				1. Self Concept
+				2. Cognition
+				3.Emotion
+				4.Motivation
+				5.Perception
+				Identifying socio-cultural Foundations of Human Behaviour
+				Steve Heine comparess East asians to NA people 
+
+				Outside of NA, many people holed independent self-construals
+
+				Concept of culture is similar to the cane in Gregory Baleson's stuff. Culture acts as an interface to interpret the world.
+
+			Cultural Perspective on Human Psychological Processes
+				"People in Culture A must be different from people in Culture B"
+
+		Culture and Evolution
+			Co-evolution of culture and the mind
+			Symbolic understanding of the world
+			Evolutionary approaches of human socio-cultureal institutions.
+
+			Because of culture, brain size increased.
+			Good at digesting cooked food, but cultures cook food differently
+
+			Culturally-shaped brain and body evolved, and makes us extremely unique as a species.
+
+	Applying Social Psychology to Real World
+		Healthy - How to reduce one's stress
+			-Psychological Stress: the sense that your challenges and demands surpass your current capacities, resources, and energies.
+			-Students tend to catch colds towards end of semester because of stress
+			Hypthalamic-Pituitary-Adrenal (HPA) Axis
+			-Cortisol
+			-Both physical processes have survival values.
+			-But, experiencing chronic stress negatively affects our health
+			Who feel stress more than others?
+				-People in lower-social economic stataus
+					high blood pressure, cardiovascular diseases, diabetes, repiratory illness, and poor metabolic functioning related to blood glucose levels.
+					stomach upset and headaches, and bad backs.
+				-People in a subordinate status
+					-always need to accomodate to the situation
+					-even subordinate baboons feel more stress
+				-People who do not have a good social network - Social Support
+					-we are a social species
+				-People who are pessimistic
+					-to avoid a negative cycle, a stress mitigation program is necessary.
+		Wealthy - How to make the right decisions
+			- Loss Aversion: the tendency for a loss of a given magnitude to have more psychological impact than an equivalent gain.
+				Imagine you have 1000 shares of stocks in Corp. X. $25->originally invested $25000, but now goes up to $50000
+				1000 shares of stocks in Corp. 1. $75->originally invested $75000, but now goes down to $50000
+				Now you have to make a $25000 payment to sell either one of the shares of stocks. People are more likely to sell the stocks that are increasing. Want to avoid feeling like we've sustained a loss.
+			- Sunk Cost Fallacy
+				People are reluctant to "waste" moeny. This leads people to cnontinue with an endeavour, whether it serves heir future interests or not, because the y have already invested money.
+					- You have purchased a concert ticket in advance, but you are later aware that you have an exam the next day.
+					- Investments which do not generate any profits
+					- Research which is not going well
+		Loss Aversion and Framing
+			- Mental Accounting: The tendency to treat money differently, depending on how it was acquired and to what mental category it is attached.
+				- Participants received a %40 check as a "rebate" or as a "bonus"
+				- Those who received their moeny as a rebate spent substantially less than those who received their money as a bonus.
+		Wise - How to be successful at school
+			Carol Dweck assters that 
+			Incrementalist Theory of Intelligence:	
+				This belief that intelligence is something you get by working hard.
+			Entity Theory of intelligence
+				The belief that intelligence is something you're born with and can't change.
+			Culture and Achievement:	
+				- Asian-American students outperform in many academic disciplines compared to students from other ethnic backgrounds.
+				- it is not genetic
+				- it is because they hold and incremental theory.
+			Can we apply these findings to other ethnic groups?
+				- Low income hispanic students will generally improve their grades when they see that external factors (incremental theory) can affect grades, they will work harder
+				- When minority groups are shown their grades are in their control, they do better
+
+				- Having an Incremental Theory
+				- Thinking of Most Important Values
+				- Feelings a sense of primary control
+
+				- Teacher's expectation:
+					Pygmalion Effect: the phenomenon in which the greater the expectation placed upon people, often children or students and employees, the better they perform.
+				-Social acceptance.
+			Statistics, social science, methodology, and critical thinking...
+				... especially in social psychology (e.g. ignorance of base-rate information, sunk cost fallacy), which makes people more likely to spot errors in reported scientific studies and more likely to avoid errors of judgment in their own lives.
